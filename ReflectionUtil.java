@@ -9,7 +9,6 @@ import java.util.List;
  * ClassName: ReflectionUtil <br/>
  * Function: 反射工具类
  * 
- * @author Zhang Xu
  */
 public class ReflectionUtil {
 
